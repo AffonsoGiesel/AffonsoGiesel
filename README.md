@@ -1,5 +1,10 @@
 ### Hi there 👋
+#### :closed_book: My name is Affonso and I'm a brazillian Software Engineer currently exercising and refining the knowledge acquired in the university, as well as seeking professional growth through new challenges, focusing in software development. 
+#### Fluent in English and Portuguese
+#### Currently studying Ruby on Rails and RSpec
+#### 📫 You can reach me through my [LinkedIn](https://www.linkedin.com/in/affonso-ant%C3%B4nio-giesel-lima-114bb6181/) profile or through my email affonsogiesel19@hotmail.com
 
+ 
 <!--
 **AffonsoGiesel/AffonsoGiesel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
